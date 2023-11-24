@@ -1,0 +1,9 @@
+../Core/Src/freertos.c:87:5:__io_putchar	1
+../Core/Src/freertos.c:93:5:__io_getchar	2
+../Core/Src/freertos.c:122:6:vApplicationGetIdleTaskMemory	1
+../Core/Src/freertos.c:136:6:MX_FREERTOS_Init	1
+../Core/Src/freertos.c:212:6:StartDefaultTask	1
+../Core/Src/freertos.c:232:6:Ultra_sonic_x3	1
+../Core/Src/freertos.c:263:6:Auto_Drive01	1
+../Core/Src/freertos.c:400:6:LCD	3
+../Core/Src/freertos.c:429:6:Mode	3

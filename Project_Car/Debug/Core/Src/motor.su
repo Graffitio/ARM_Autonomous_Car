@@ -1,0 +1,6 @@
+../Core/Src/motor.c:11:6:motor_control	16	static
+../Core/Src/motor.c:82:6:Forward	8	static
+../Core/Src/motor.c:94:6:Left	8	static
+../Core/Src/motor.c:106:6:Right	8	static
+../Core/Src/motor.c:118:6:Backward	8	static
+../Core/Src/motor.c:129:6:Stop	8	static
